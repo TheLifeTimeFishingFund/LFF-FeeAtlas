@@ -1,0 +1,91 @@
+{
+  "annual_fishing": {
+    "metadata": {
+      "pool": "Annual Access Fund",
+      "reserve_percent": 0.10,
+      "general_percent": 0.90,
+      "description": "All annual fishing-related products with a cost."
+    },
+    "standard": [
+      { "code": "ADT-FISH-DE", "state": "DE", "cost": 8.5, "description": "Standard resident fishing license" },
+      { "code": "ADT-FISH-MO", "state": "MO", "cost": 12, "description": "Standard resident fishing permit" },
+      { "code": "ADT-FISH-IN", "state": "IN", "cost": 23, "description": "Standard resident fishing license" },
+      { "code": "ADT-FISH-OH", "state": "OH", "cost": 25, "description": "Standard resident fishing license" },
+      { "code": "ADT-FISH-MN", "state": "MN", "cost": 25, "description": "Standard resident angling license" },
+      { "code": "ADT-FISH-MI", "state": "MI", "cost": 26, "description": "Standard resident all-species license" },
+      { "code": "ADT-FISH-WY", "state": "WY", "cost": 27, "description": "Standard resident fishing license" },
+      { "code": "ADT-FISH-PA", "state": "PA", "cost": 27.97, "description": "Standard resident fishing license" },
+      { "code": "ADT-FISH-SD", "state": "SD", "cost": 28, "description": "Standard resident fishing license" },
+      { "code": "ADT-FISH-VT", "state": "VT", "cost": 28, "description": "Standard resident fishing license" },
+      { "code": "ADT-FISH-CO", "state": "CO", "cost": 43, "description": "Standard annual fishing license" },
+      { "code": "ADT-FISH-OR", "state": "OR", "cost": 44, "description": "Standard resident fishing license" },
+      { "code": "ADT-FISH-NH", "state": "NH", "cost": 45, "description": "Standard resident fishing license" }
+    ],
+    "senior": [
+      { "code": "SEN-FISH-IN", "state": "IN", "cost": 3, "description": "Age 64+ reduced annual license" },
+      { "code": "SEN-FISH-IA", "state": "IA", "cost": 5, "description": "Age 65+ reduced annual license" },
+      { "code": "SEN-FISH-KY", "state": "KY", "cost": 5, "description": "Age 65+ reduced annual license" },
+      { "code": "SEN-FISH-MO", "state": "MO", "cost": 5, "description": "Age 65+ reduced annual fishing permit" },
+      { "code": "SEN-FISH-WI", "state": "WI", "cost": 7, "description": "Age 65+ reduced annual fishing license" },
+      { "code": "SEN-FISH-ME", "state": "ME", "cost": 8, "description": "Age 65+ reduced annual license" },
+      { "code": "SEN-FISH-NM", "state": "NM", "cost": 8, "description": "Age 65+ reduced annual fishing license" },
+      { "code": "SEN-FISH-VT", "state": "VT", "cost": 8, "description": "Age 66+ reduced annual fishing license" },
+      { "code": "SEN-FISH-VA", "state": "VA", "cost": 9, "description": "Age 65+ reduced freshwater license" },
+      { "code": "SEN-FISH-MN", "state": "MN", "cost": 10, "description": "Age 65+ reduced angling license" },
+      { "code": "SEN-FISH-MT", "state": "MT", "cost": 10, "description": "Age 62+ reduced fishing license" },
+      { "code": "SEN-FISH-ND", "state": "ND", "cost": 10, "description": "Age 65+ reduced annual fishing license" },
+      { "code": "SEN-FISH-NH", "state": "NH", "cost": 10, "description": "Age 68+ reduced annual fishing license" },
+      { "code": "SEN-FISH-OH", "state": "OH", "cost": 10, "description": "Age 66+ reduced annual fishing license" },
+      { "code": "SEN-FISH-TN", "state": "TN", "cost": 10, "description": "Age 65+ reduced annual freshwater license" }
+    ],
+    "freshwater": [
+      { "code": "ADT-FW-MS", "state": "MS", "cost": 10, "description": "Standard resident freshwater license" },
+      { "code": "ADT-FW-SC", "state": "SC", "cost": 10, "description": "Standard resident freshwater license" },
+      { "code": "ADT-FW-MD", "state": "MD", "cost": 20.5, "description": "Standard resident freshwater license" },
+      { "code": "ADT-FW-RI", "state": "RI", "cost": 21, "description": "Standard resident freshwater license" },
+      { "code": "ADT-FW-IA", "state": "IA", "cost": 22, "description": "Standard resident fishing license" },
+      { "code": "ADT-FW-NJ", "state": "NJ", "cost": 22.5, "description": "Standard resident freshwater license" },
+      { "code": "ADT-FW-VA", "state": "VA", "cost": 23, "description": "Standard resident freshwater license" },
+      { "code": "ADT-FW-NC", "state": "NC", "cost": 25, "description": "Standard resident inland freshwater license" },
+      { "code": "ADT-FW-TX", "state": "TX", "cost": 30, "description": "Standard resident freshwater license" },
+      { "code": "ADT-FW-WA", "state": "WA", "cost": 29.5, "description": "Standard resident freshwater license" }
+    ],
+    "saltwater": [
+      { "code": "SLT-CT", "state": "CT", "cost": 10, "description": "Marine Waters Fishing License" },
+      { "code": "ADT-SW-MS", "state": "MS", "cost": 10, "description": "Standard resident saltwater license" },
+      { "code": "ADT-SW-SC", "state": "SC", "cost": 10, "description": "Saltwater recreational fishing license" },
+      { "code": "ADT-SW-MD", "state": "MD", "cost": 15, "description": "Chesapeake Bay & Coastal Sport license" },
+      { "code": "ADT-SW-LA", "state": "LA", "cost": 15, "description": "Saltwater license add-on" },
+      { "code": "ADT-SW-NC", "state": "NC", "cost": 16, "description": "Coastal Recreational Fishing License (CRFL)" },
+      { "code": "ADT-SW-TX", "state": "TX", "cost": 35, "description": "Saltwater license (requires red drum tag)" },
+      { "code": "ADT-SW-WA", "state": "WA", "cost": 30.05, "description": "Resident saltwater license" }
+    ],
+    "unified": [
+      { "code": "ADT-UNI-SC", "state": "SC", "cost": 20, "description": "Combined freshwater + saltwater license" },
+      { "code": "ADT-UNI-VA", "state": "VA", "cost": 23, "description": "Unified freshwater + saltwater (saltwater free)" },
+      { "code": "ADT-UNI-NC", "state": "NC", "cost": 41, "description": "Unified inland + coastal license" }
+    ],
+    "trout_salmon": [
+      { "code": "TRT-DE", "state": "DE", "cost": 4.2, "description": "Trout stamp required ages 16–64" },
+      { "code": "TRT-MD", "state": "MD", "cost": 5, "description": "Trout stamp required ages 16+" },
+      { "code": "TRT-TX", "state": "TX", "cost": 5, "description": "Trout stamp required for freshwater trout" },
+      { "code": "TRT-IL", "state": "IL", "cost": 6.75, "description": "Trout stamp required ages 16+" },
+      { "code": "TRT-NM", "state": "NM", "cost": 8, "description": "Trout license required ages 12+" },
+      { "code": "TRT-NJ", "state": "NJ", "cost": 10, "description": "Trout stamp required ages 16+" },
+      { "code": "TRT-IN", "state": "IN", "cost": 11, "description": "Trout/salmon stamp required" },
+      { "code": "TRT-PA", "state": "PA", "cost": 11.97, "description": "Trout/salmon permit required ages 16+" },
+      { "code": "TRT-MN", "state": "MN", "cost": 12, "description": "Trout/salmon stamp required" },
+      { "code": "TRT-IA", "state": "IA", "cost": 14.5, "description": "Trout fee required ages 16+" },
+      { "code": "TRT-KS", "state": "KS", "cost": 14.5, "description": "Trout permit required ages 16+" }
+    ],
+    "species": [
+      { "code": "LOB-FL", "state": "FL", "cost": 5, "description": "Lobster permit required" },
+      { "code": "SNK-FL", "state": "FL", "cost": 10, "description": "Snook permit required" },
+      { "code": "SALM-ID", "state": "ID", "cost": 25, "description": "Salmon permit required" },
+      { "code": "STHD-ID", "state": "ID", "cost": 25, "description": "Steelhead permit required" },
+      { "code": "ADT-SHF-WA", "state": "WA", "cost": 17, "description": "Shellfish/seaweed license" }
+    ],
+    "youth": [],
+    "free": []
+  }
+}
