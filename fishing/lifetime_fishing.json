@@ -1,0 +1,78 @@
+{
+  "lifetime_fishing": {
+    "metadata": {
+      "pool": "Lifetime Access Fund",
+      "description": "All lifetime fishing-related products with a cost."
+    },
+
+    "standard": [
+      { "code": "LIFE-FISH-MT", "state": "MT", "cost": 500, "description": "Lifetime fishing license" },
+      { "code": "ADT-FISH-AR", "state": "AR", "cost": 500, "description": "Standard lifetime fishing license" },
+      { "code": "LIFE-FISH-MN", "state": "MN", "cost": 574, "description": "Age 16–50 lifetime angling license" },
+      { "code": "LIFE-FISH-MN-51-64", "state": "MN", "cost": 457, "description": "Age 51–64 lifetime angling license" },
+      { "code": "LIFE-FISH-WY", "state": "WY", "cost": 500, "description": "Age 14+ lifetime fishing license" },
+      { "code": "LIFE-FISH-WV", "state": "WV", "cost": 500, "description": "Age 15–64 lifetime fishing license" },
+      { "code": "LIFE-FISH-UT", "state": "UT", "cost": 500, "description": "Age 13–64 lifetime fishing license" },
+      { "code": "LIFE-FISH-OR-12-17", "state": "OR", "cost": 500, "description": "Age 12–17 lifetime fishing license" },
+      { "code": "LIFE-FISH-NV-31-40", "state": "NV", "cost": 600, "description": "Age 31–40 lifetime fishing license" },
+      { "code": "LIFE-FISH-NV-41-50", "state": "NV", "cost": 500, "description": "Age 41–50 lifetime fishing license" },
+      { "code": "LIFE-FISH-NV-51PLUS", "state": "NV", "cost": 300, "description": "Age 51+ lifetime fishing license" },
+      { "code": "LIFE-FISH-ID-14-25", "state": "ID", "cost": 601.75, "description": "Age 14–25 lifetime fishing license" }
+    ],
+
+    "youth": [
+      { "code": "LIFE-0-11-FISH-OR", "state": "OR", "cost": 25, "description": "Age 0–11 lifetime fishing license" },
+      { "code": "LIFE-0-15-FISH-VT", "state": "VT", "cost": 50, "description": "Age 0–15 lifetime fishing license" },
+      { "code": "LIFE-0-11-FISH-PA", "state": "PA", "cost": 75, "description": "Age 0–11 lifetime fishing license" },
+      { "code": "LIFE-0-14-FISH-WV", "state": "WV", "cost": 300, "description": "Age 0–14 lifetime fishing license" },
+      { "code": "LIFE-0-13-FISH-WY", "state": "WY", "cost": 300, "description": "Age 0–13 lifetime fishing license" },
+      { "code": "LIFE-0-12-FISH-TN", "state": "TN", "cost": 320, "description": "Age 0–12 lifetime freshwater license" },
+      { "code": "LIFE-0-12-FISH-UT", "state": "UT", "cost": 300, "description": "Age 0–12 lifetime fishing license" },
+      { "code": "LIFE-0-15-FISH-OK", "state": "OK", "cost": 225, "description": "Age 0–15 lifetime fishing license" }
+    ],
+
+    "senior": [
+      { "code": "SEN-LIFE-FISH-IN", "state": "IN", "cost": 17, "description": "Age 64+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-ME", "state": "ME", "cost": 50, "description": "Age 65+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-IL", "state": "IL", "cost": 60.5, "description": "Age 65+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-IA", "state": "IA", "cost": 65, "description": "Age 65+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-MD-FW", "state": "MD", "cost": 65, "description": "Age 65+ lifetime freshwater license" },
+      { "code": "SEN-LIFE-FISH-MD-SW", "state": "MD", "cost": 65, "description": "Age 65+ lifetime saltwater license" },
+      { "code": "SEN-LIFE-FISH-NY", "state": "NY", "cost": 65, "description": "Age 70+ lifetime freshwater license" },
+      { "code": "SEN-LIFE-FISH-PA", "state": "PA", "cost": 51.97, "description": "Age 65+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-KY", "state": "KY", "cost": 55, "description": "Age 65+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-WI", "state": "WI", "cost": 300, "description": "Age 65+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-MN", "state": "MN", "cost": 344, "description": "Age 65+ lifetime angling license" },
+      { "code": "SEN-LIFE-FISH-NE", "state": "NE", "cost": 355, "description": "Age 61+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-OH", "state": "OH", "cost": 84, "description": "Age 66+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-UT", "state": "UT", "cost": 300, "description": "Age 65+ lifetime fishing license" },
+      { "code": "SEN-LIFE-FISH-CA", "state": "CA", "cost": 562, "description": "Age 65+ reduced lifetime license" }
+    ],
+
+    "freshwater": [
+      { "code": "LIFE-65PLUS-FW-SC", "state": "SC", "cost": 9, "description": "Age 65+ lifetime freshwater license" },
+      { "code": "LIFE-50-64-FW-NC", "state": "NC", "cost": 100, "description": "Age 50–64 lifetime freshwater license" },
+      { "code": "LIFE-12-49-FW-NC", "state": "NC", "cost": 300, "description": "Age 12–49 lifetime freshwater license" },
+      { "code": "LIFE-65PLUS-FW-VA", "state": "VA", "cost": 50, "description": "Age 65+ lifetime freshwater license" },
+      { "code": "LIFE-16-44-FW-VA", "state": "VA", "cost": 300, "description": "Age 16–44 lifetime freshwater license" }
+    ],
+
+    "saltwater": [
+      { "code": "LIFE-65PLUS-SW-SC", "state": "SC", "cost": 9, "description": "Age 65+ lifetime saltwater license" },
+      { "code": "LIFE-50-64-SW-NC", "state": "NC", "cost": 100, "description": "Age 50–64 lifetime coastal license" },
+      { "code": "LIFE-12-49-SW-NC", "state": "NC", "cost": 250, "description": "Age 12–49 lifetime coastal license" },
+      { "code": "SEN-LIFE-SW-LA", "state": "LA", "cost": 100, "description": "Age 60+ lifetime saltwater license" },
+      { "code": "SEN-SW-FL", "state": "FL", "cost": 201, "description": "Age 65+ lifetime saltwater fishing" }
+    ],
+
+    "unified": [
+      { "code": "LIFE-65PLUS-UNI-SC", "state": "SC", "cost": 18, "description": "Age 65+ lifetime unified license" },
+      { "code": "LIFE-65PLUS-UNI-NC", "state": "NC", "cost": 30, "description": "Age 65+ lifetime unified license" },
+      { "code": "LIFE-12-49-UNI-NC", "state": "NC", "cost": 500, "description": "Age 12–49 lifetime unified license" },
+      { "code": "LIFE-0-11-UNI-NC", "state": "NC", "cost": 200, "description": "Age 0–11 lifetime unified license" },
+      { "code": "LIFE-0-15-UNI-SC", "state": "SC", "cost": 600, "description": "Age 0–15 lifetime unified license" }
+    ],
+
+    "free": []
+  }
+}
