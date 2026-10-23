@@ -1,1 +1,11 @@
+{
+  "fishing": {
+    "annual": "fishing/annual_fishing.json",
+    "lifetime": "fishing/lifetime_fishing.json"
+  },
+  "hunting": {
+    "annual": "hunting/annual_hunting.json",
+    "lifetime": "hunting/lifetime_hunting.json"
+  }
+}
 
